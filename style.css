@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;  
+}
+
+body {
+
+}
+
+.header {
+   text-align: center; 
+}
+
+.main {
+    padding: 10px
+}
+
+.first-section {
+    display: flex;
+    padding: 5px;
+    background: rgb(81, 133, 81);
+
+}
+
+.second_section {
+    display: flex;
+    padding: 5px;
+    background: rgb(81, 133, 131);
+}
+
+.form1 {
+    background: rgb(62, 62, 91);
+    padding: 5px;
+
+}
+
+.btn {
+    padding: 10px 5px;
+    background: rgb(235, 146, 13);
+
+}
+
+.data-input {
+    padding: 5px;
+}
+
+.result-container {
+    padding: 10px
+}
